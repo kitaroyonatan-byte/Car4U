@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Car4U</string>
+
+    <!-- Sign In Screen -->
+    <string name="welcome_back">ברוכים הבאים!</string>
+    <string name="sign_in_to_continue">התחבר כדי להמשיך</string>
+    <string name="forgot_password">שכחת סיסמה?</string>
+    <string name="sign_in">התחבר</string>
+    <string name="dont_have_account_sign_up">אין לך חשבון? הרשם עכשיו</string>
+
+    <!-- Sign Up Screen -->
+    <string name="create_account">יצירת חשבון</string>
+    <string name="sign_up_to_get_started">הרשם כדי להתחיל</string>
+    <string name="full_name">שם מלא</string>
+    <string name="enter_your_full_name">הזן את שמך המלא</string>
+    <string name="sign_up">הרשמה</string>
+    <string name="already_have_account_sign_in">כבר יש לך חשבון? התחבר</string>
+
+    <!-- Shared Input Fields -->
+    <string name="email_address">כתובת אימייל</string>
+    <string name="enter_your_email">הזן את האימייל שלך</string>
+    <string name="password">סיסמה</string>
+    <string name="enter_your_password">הזן את הסיסמה שלך</string>
+
+    <!-- Messages -->
+    <string name="fill_all_fields">אנא מלא את כל השדות</string>
+    <string name="signing_in">מתחבר…</string>
+    <string name="signed_up_successfully">נרשם בהצלחה!</string>
+</resources>

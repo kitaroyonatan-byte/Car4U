@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Dark Purple Rounded Square Card Background -->
+    <path
+        android:fillColor="#1E0A38"
+        android:pathData="M 30,0 L 170,0 A 30,30 0 0,1 200,30 L 200,170 A 30,30 0 0,1 170,200 L 30,200 A 30,30 0 0,1 0,170 L 0,30 A 30,30 0 0,1 30,0 Z" />
+
+    <!-- Outer Glow Accent Purple Border -->
+    <path
+        android:strokeColor="#9333EA"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M 30,2 L 170,2 A 28,28 0 0,1 198,30 L 198,170 A 28,28 0 0,1 170,198 L 30,198 A 28,28 0 0,1 2,170 L 2,30 A 28,28 0 0,1 30,2 Z" />
+
+    <!-- BMW Outer Black Ring -->
+    <path
+        android:fillColor="#111111"
+        android:strokeColor="#DDDDDD"
+        android:strokeWidth="1.5"
+        android:pathData="M 100,25 A 40,40 0 1,0 100,105 A 40,40 0 1,0 100,25 Z" />
+
+    <!-- BMW Inner Circle Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 100,42 A 23,23 0 1,0 100,88 A 23,23 0 1,0 100,42 Z" />
+
+    <!-- BMW Quadrant Top-Left (Blue) -->
+    <path
+        android:fillColor="#0066B1"
+        android:pathData="M 100,65 L 100,42 A 23,23 0 0,0 77,65 Z" />
+
+    <!-- BMW Quadrant Bottom-Right (Blue) -->
+    <path
+        android:fillColor="#0066B1"
+        android:pathData="M 100,65 L 100,88 A 23,23 0 0,0 123,65 Z" />
+
+    <!-- BMW Ring Inner Divider Lines -->
+    <path
+        android:strokeColor="#111111"
+        android:strokeWidth="1.5"
+        android:pathData="M 100,42 L 100,88 M 77,65 L 123,65" />
+
+    <!-- Screwdriver Handle (Purple) & Blade (Silver) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M 130,80 L 155,55 C 158,52 163,52 166,55 C 169,58 169,63 166,66 L 141,91 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 132,82 L 120,94 L 116,92 L 118,88 L 130,80 Z" />
+
+    <!-- Purple Swoosh Ribbon under BMW logo -->
+    <path
+        android:fillColor="#9333EA"
+        android:pathData="M 25,108 C 65,85 135,85 175,108 C 135,98 65,98 25,108 Z" />
+
+    <!-- "Car" Text (White/Silver) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,130 C 22,130 18,142 18,150 C 18,158 22,170 32,170 C 38,170 42,165 44,160 L 37,158 C 36,161 34,163 32,163 C 27,163 25,155 25,150 C 25,145 27,137 32,137 C 34,137 36,139 37,142 L 44,140 C 42,135 38,130 32,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 50,145 C 46,145 44,148 44,153 C 44,158 46,161 50,161 C 53,161 55,159 56,156 L 56,160 L 62,160 L 62,146 L 56,146 L 56,149 C 55,146 53,145 50,145 Z M 52,151 C 54,151 56,152 56,154 C 56,156 54,157 52,157 C 50,157 49,156 49,154 C 49,152 50,151 52,151 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 66,146 L 66,170 L 73,170 L 73,156 C 75,153 78,152 80,153 L 82,146 C 79,145 75,147 73,151 L 73,146 Z" />
+
+    <!-- "4U" Text (Vibrant Purple #A855F7) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M 88,132 L 88,152 L 102,152 L 102,132 L 95,132 L 95,145 L 94,145 L 88,132 Z M 95,152 L 95,168 L 102,168 L 102,152 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 110,132 L 110,158 C 110,166 116,170 124,170 C 132,170 138,166 138,158 L 138,132 L 130,132 L 130,157 C 130,161 128,163 124,163 C 120,163 118,161 118,157 L 118,132 Z" />
+
+    <!-- Bottom Accent Purple Swoosh -->
+    <path
+        android:fillColor="#9333EA"
+        android:pathData="M 25,176 C 75,168 125,168 175,176 C 125,171 75,171 25,176 Z" />
+
+</vector>

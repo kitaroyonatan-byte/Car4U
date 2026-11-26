@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Clean Purple Theme -->
+    <color name="page_background">#F3E8FF</color>
+    <color name="primary">#7C3AED</color>
+    <color name="primary_purple">#7C3AED</color>
+    <color name="primary_purple_dark">#6D28D9</color>
+    <color name="primary_light">#EDE9FE</color>
+    <color name="primary_purple_light">#EDE9FE</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2E1065</color>
+    <color name="text_secondary">#6B21A8</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_link">#7C3AED</color>
+
+    <!-- Input Fields -->
+    <color name="input_bg_transparent">#B3FFFFFF</color>
+    <color name="input_bg_focused">#FFFFFF</color>
+    <color name="input_border_normal">#C4B5FD</color>
+    <color name="input_border_focused">#8B5CF6</color>
+
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
